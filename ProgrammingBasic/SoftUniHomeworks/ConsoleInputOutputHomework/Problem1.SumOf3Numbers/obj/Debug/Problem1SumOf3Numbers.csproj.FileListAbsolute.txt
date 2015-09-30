@@ -1,0 +1,1 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Problem1.SumOf3Numbers\bin\Debug\Problem1.SumOf3Numbers.exe.config

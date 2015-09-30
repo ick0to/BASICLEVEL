@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

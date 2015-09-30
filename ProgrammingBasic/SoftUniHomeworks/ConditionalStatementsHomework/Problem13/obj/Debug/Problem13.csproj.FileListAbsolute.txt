@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ConditionalStatementsHomework\Problem13\bin\Debug\Problem13.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ConditionalStatementsHomework\Problem13\bin\Debug\Problem13.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ConditionalStatementsHomework\Problem13\bin\Debug\Problem13.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ConditionalStatementsHomework\Problem13\obj\Debug\Problem13.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ConditionalStatementsHomework\Problem13\obj\Debug\Problem13.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ConditionalStatementsHomework\Problem13\obj\Debug\Problem13.pdb

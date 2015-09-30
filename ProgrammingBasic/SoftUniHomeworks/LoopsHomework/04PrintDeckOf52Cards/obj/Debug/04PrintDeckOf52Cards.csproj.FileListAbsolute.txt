@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\04PrintDeckOf52Cards\bin\Debug\04PrintDeckOf52Cards.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\04PrintDeckOf52Cards\bin\Debug\04PrintDeckOf52Cards.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\04PrintDeckOf52Cards\bin\Debug\04PrintDeckOf52Cards.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\04PrintDeckOf52Cards\obj\Debug\04PrintDeckOf52Cards.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\04PrintDeckOf52Cards\obj\Debug\04PrintDeckOf52Cards.pdb

@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\BooleanVariable\obj\Debug\BooleanVariable.pdb

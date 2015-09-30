@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\09ExtractURLsFromText\bin\Debug\09ExtractURLsFromText.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\09ExtractURLsFromText\bin\Debug\09ExtractURLsFromText.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\09ExtractURLsFromText\bin\Debug\09ExtractURLsFromText.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\09ExtractURLsFromText\obj\Debug\09ExtractURLsFromText.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\09ExtractURLsFromText\obj\Debug\09ExtractURLsFromText.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\09ExtractURLsFromText\obj\Debug\09ExtractURLsFromText.csprojResolveAssemblyReference.cache

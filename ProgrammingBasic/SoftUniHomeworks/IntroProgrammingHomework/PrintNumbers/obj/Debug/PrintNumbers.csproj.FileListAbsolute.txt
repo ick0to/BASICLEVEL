@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,3 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\DifferenceBetweenDates\bin\Debug\DifferenceBetweenDates.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\DifferenceBetweenDates\obj\Debug\DifferenceBetweenDates.pdb

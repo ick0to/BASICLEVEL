@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Cinema\bin\Debug\Cinema.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Cinema\bin\Debug\Cinema.exe
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Cinema\bin\Debug\Cinema.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Cinema\obj\Debug\Cinema.exe
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Cinema\obj\Debug\Cinema.pdb

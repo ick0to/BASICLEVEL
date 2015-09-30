@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\06CalculateN!K!\bin\Debug\06CalculateN!K!.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\06CalculateN!K!\bin\Debug\06CalculateN!K!.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\06CalculateN!K!\bin\Debug\06CalculateN!K!.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\06CalculateN!K!\obj\Debug\06CalculateN!K!.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\06CalculateN!K!\obj\Debug\06CalculateN!K!.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\06CalculateN!K!\obj\Debug\06CalculateN!K!.pdb

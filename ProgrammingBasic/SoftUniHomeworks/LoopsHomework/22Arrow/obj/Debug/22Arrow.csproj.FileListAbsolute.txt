@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\22Arrow\bin\Debug\22Arrow.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\22Arrow\bin\Debug\22Arrow.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\22Arrow\bin\Debug\22Arrow.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\22Arrow\obj\Debug\22Arrow.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\22Arrow\obj\Debug\22Arrow.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\22Arrow\obj\Debug\22Arrow.csprojResolveAssemblyReference.cache

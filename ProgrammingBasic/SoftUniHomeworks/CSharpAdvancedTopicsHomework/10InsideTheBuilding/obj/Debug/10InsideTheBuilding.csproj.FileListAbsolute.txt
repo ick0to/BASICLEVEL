@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\10InsideTheBuilding\bin\Debug\10InsideTheBuilding.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\10InsideTheBuilding\bin\Debug\10InsideTheBuilding.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\10InsideTheBuilding\bin\Debug\10InsideTheBuilding.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\10InsideTheBuilding\obj\Debug\10InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\10InsideTheBuilding\obj\Debug\10InsideTheBuilding.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\10InsideTheBuilding\obj\Debug\10InsideTheBuilding.pdb

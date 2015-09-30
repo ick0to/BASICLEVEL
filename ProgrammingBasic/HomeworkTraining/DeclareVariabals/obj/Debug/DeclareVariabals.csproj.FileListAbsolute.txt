@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\HomeworkTraining\DeclareVariabals\bin\Debug\DeclareVariabals.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\DeclareVariabals\bin\Debug\DeclareVariabals.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\DeclareVariabals\bin\Debug\DeclareVariabals.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\DeclareVariabals\obj\Debug\DeclareVariabals.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\DeclareVariabals\obj\Debug\DeclareVariabals.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\DeclareVariabals\obj\Debug\DeclareVariabals.pdb

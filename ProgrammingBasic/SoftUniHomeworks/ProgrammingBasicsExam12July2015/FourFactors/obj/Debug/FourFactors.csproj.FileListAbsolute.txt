@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\FourFactors\bin\Debug\FourFactors.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\FourFactors\bin\Debug\FourFactors.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\FourFactors\bin\Debug\FourFactors.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\FourFactors\obj\Debug\FourFactors.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\FourFactors\obj\Debug\FourFactors.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\FourFactors\obj\Debug\FourFactors.pdb

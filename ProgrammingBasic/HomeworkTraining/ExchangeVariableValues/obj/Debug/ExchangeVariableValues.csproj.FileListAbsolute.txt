@@ -1,0 +1,5 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\HomeworkTraining\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\HomeworkTraining\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\HomeworkTraining\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\HomeworkTraining\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\HomeworkTraining\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

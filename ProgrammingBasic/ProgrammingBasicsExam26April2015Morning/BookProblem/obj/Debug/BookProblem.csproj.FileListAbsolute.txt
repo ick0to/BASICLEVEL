@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\BookProblem\bin\Debug\BookProblem.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\BookProblem\bin\Debug\BookProblem.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\BookProblem\bin\Debug\BookProblem.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\BookProblem\obj\Debug\BookProblem.exe
+c:\users\hristo\documents\visual studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\BookProblem\obj\Debug\BookProblem.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ProgrammingBasicsExam26April2015Morning\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache

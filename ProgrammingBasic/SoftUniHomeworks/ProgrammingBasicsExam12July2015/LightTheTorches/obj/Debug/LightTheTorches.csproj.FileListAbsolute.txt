@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\LightTheTorches\bin\Debug\LightTheTorches.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\LightTheTorches\bin\Debug\LightTheTorches.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\LightTheTorches\obj\Debug\LightTheTorches.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\LightTheTorches\obj\Debug\LightTheTorches.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\ProgrammingBasicsExam12July2015\LightTheTorches\obj\Debug\LightTheTorches.pdb

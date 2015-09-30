@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\TestForCircle\bin\Debug\TestForCircle.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\TestForCircle\bin\Debug\TestForCircle.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\TestForCircle\bin\Debug\TestForCircle.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\TestForCircle\obj\Debug\TestForCircle.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\TestForCircle\obj\Debug\TestForCircle.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\TestForCircle\obj\Debug\TestForCircle.csprojResolveAssemblyReference.cache

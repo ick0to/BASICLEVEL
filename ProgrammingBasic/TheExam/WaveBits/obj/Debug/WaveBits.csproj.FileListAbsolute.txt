@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\WaveBits\bin\Debug\WaveBits.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\WaveBits\bin\Debug\WaveBits.exe
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\WaveBits\bin\Debug\WaveBits.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\WaveBits\obj\Debug\WaveBits.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\WaveBits\obj\Debug\WaveBits.exe
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\WaveBits\obj\Debug\WaveBits.pdb

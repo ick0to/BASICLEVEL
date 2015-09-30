@@ -1,0 +1,5 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\LongSequence\bin\Debug\LongSequence.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\LongSequence\obj\Debug\LongSequence.pdb

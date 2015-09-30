@@ -1,0 +1,5 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\IntroProgrammingHomework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

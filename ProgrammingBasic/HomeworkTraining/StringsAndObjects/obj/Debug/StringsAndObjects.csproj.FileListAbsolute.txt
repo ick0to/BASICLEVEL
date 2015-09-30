@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\StringsAndObjects\obj\Debug\StringsAndObjects.csprojResolveAssemblyReference.cache

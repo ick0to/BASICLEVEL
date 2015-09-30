@@ -1,0 +1,6 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\OddEvenSum\bin\Debug\OddEvenSum.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\OddEvenSum\bin\Debug\OddEvenSum.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\OddEvenSum\obj\Debug\OddEvenSum.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\OddEvenSum\obj\Debug\OddEvenSum.pdb

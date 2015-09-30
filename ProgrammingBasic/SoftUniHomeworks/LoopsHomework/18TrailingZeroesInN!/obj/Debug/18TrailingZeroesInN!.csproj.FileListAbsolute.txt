@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\18TrailingZeroesInN!\bin\Debug\18TrailingZeroesInN!.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\18TrailingZeroesInN!\bin\Debug\18TrailingZeroesInN!.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\18TrailingZeroesInN!\bin\Debug\18TrailingZeroesInN!.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\18TrailingZeroesInN!\obj\Debug\18TrailingZeroesInN!.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\18TrailingZeroesInN!\obj\Debug\18TrailingZeroesInN!.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\18TrailingZeroesInN!\obj\Debug\18TrailingZeroesInN!.pdb

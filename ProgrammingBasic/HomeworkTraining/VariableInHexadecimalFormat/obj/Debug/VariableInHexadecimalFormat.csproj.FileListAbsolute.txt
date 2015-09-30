@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\HomeworkTraining\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb

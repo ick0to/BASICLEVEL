@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Illuminati\bin\Debug\Illuminati.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Illuminati\bin\Debug\Illuminati.exe
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Illuminati\bin\Debug\Illuminati.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Illuminati\obj\Debug\Illuminati.exe
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Evening\Illuminati\obj\Debug\Illuminati.pdb

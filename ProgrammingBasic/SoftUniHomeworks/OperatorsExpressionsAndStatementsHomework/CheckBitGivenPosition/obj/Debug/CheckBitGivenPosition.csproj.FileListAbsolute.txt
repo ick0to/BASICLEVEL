@@ -1,0 +1,5 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckBitGivenPosition\bin\Debug\CheckBitGivenPosition.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckBitGivenPosition\bin\Debug\CheckBitGivenPosition.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckBitGivenPosition\bin\Debug\CheckBitGivenPosition.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckBitGivenPosition\obj\Debug\CheckBitGivenPosition.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\CheckBitGivenPosition\obj\Debug\CheckBitGivenPosition.pdb

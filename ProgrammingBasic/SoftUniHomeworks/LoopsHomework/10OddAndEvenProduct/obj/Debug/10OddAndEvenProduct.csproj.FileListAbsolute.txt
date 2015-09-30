@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb

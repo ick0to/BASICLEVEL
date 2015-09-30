@@ -1,0 +1,6 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitsExchange\obj\Debug\BitsExchange.pdb

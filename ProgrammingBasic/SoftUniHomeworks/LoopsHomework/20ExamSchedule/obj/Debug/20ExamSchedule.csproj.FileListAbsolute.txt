@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\20ExamSchedule\bin\Debug\20ExamSchedule.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\20ExamSchedule\bin\Debug\20ExamSchedule.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\20ExamSchedule\bin\Debug\20ExamSchedule.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\20ExamSchedule\obj\Debug\20ExamSchedule.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\LoopsHomework\20ExamSchedule\obj\Debug\20ExamSchedule.pdb

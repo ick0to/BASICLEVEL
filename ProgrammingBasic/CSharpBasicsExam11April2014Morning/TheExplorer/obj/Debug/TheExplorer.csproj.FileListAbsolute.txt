@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Morning\TheExplorer\bin\Debug\TheExplorer.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Morning\TheExplorer\bin\Debug\TheExplorer.exe
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Morning\TheExplorer\bin\Debug\TheExplorer.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Morning\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Morning\TheExplorer\obj\Debug\TheExplorer.exe
+c:\users\hristo\documents\visual studio 2013\Projects\CSharpBasicsExam11April2014Morning\TheExplorer\obj\Debug\TheExplorer.pdb

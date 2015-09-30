@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\Lab16August2015\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\Lab16August2015\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\Lab16August2015\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\Lab16August2015\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\Lab16August2015\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\Lab16August2015\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.pdb

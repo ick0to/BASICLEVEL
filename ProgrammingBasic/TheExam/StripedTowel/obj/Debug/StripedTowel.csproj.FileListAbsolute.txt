@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\StripedTowel\bin\Debug\StripedTowel.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\StripedTowel\bin\Debug\StripedTowel.exe
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\StripedTowel\bin\Debug\StripedTowel.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\StripedTowel\obj\Debug\StripedTowel.exe
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\StripedTowel\obj\Debug\StripedTowel.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\TheExam\StripedTowel\obj\Debug\StripedTowel.csprojResolveAssemblyReference.cache

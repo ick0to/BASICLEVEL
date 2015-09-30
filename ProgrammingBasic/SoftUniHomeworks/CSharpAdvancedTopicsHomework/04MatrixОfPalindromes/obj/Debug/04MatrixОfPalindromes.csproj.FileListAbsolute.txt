@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\04MatrixОfPalindromes\bin\Debug\04MatrixОfPalindromes.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\04MatrixОfPalindromes\bin\Debug\04MatrixОfPalindromes.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\04MatrixОfPalindromes\bin\Debug\04MatrixОfPalindromes.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\04MatrixОfPalindromes\obj\Debug\04MatrixОfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\04MatrixОfPalindromes\obj\Debug\04MatrixОfPalindromes.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUniHomeworks\CSharpAdvancedTopicsHomework\04MatrixОfPalindromes\obj\Debug\04MatrixОfPalindromes.pdb

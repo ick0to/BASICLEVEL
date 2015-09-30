@@ -1,0 +1,6 @@
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitExchange(Advanced)\bin\Debug\BitExchange(Advanced).exe.config
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitExchange(Advanced)\bin\Debug\BitExchange(Advanced).exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitExchange(Advanced)\bin\Debug\BitExchange(Advanced).pdb
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitExchange(Advanced)\obj\Debug\BitExchange(Advanced).csprojResolveAssemblyReference.cache
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitExchange(Advanced)\obj\Debug\BitExchange(Advanced).exe
+C:\Users\Hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\BitExchange(Advanced)\obj\Debug\BitExchange(Advanced).pdb

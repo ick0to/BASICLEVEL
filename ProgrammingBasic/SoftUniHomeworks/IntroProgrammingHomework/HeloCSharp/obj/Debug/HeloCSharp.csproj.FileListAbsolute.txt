@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\HeloCSharp\bin\Debug\HeloCSharp.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\HeloCSharp\bin\Debug\HeloCSharp.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\HeloCSharp\bin\Debug\HeloCSharp.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\HeloCSharp\obj\Debug\HeloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\HeloCSharp\obj\Debug\HeloCSharp.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\HeloCSharp\obj\Debug\HeloCSharp.pdb

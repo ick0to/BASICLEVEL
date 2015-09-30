@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Problem17CatchTheBits\bin\Debug\Problem17CatchTheBits.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Problem17CatchTheBits\bin\Debug\Problem17CatchTheBits.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Problem17CatchTheBits\bin\Debug\Problem17CatchTheBits.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Problem17CatchTheBits\obj\Debug\Problem17CatchTheBits.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\ConsoleInputOutputHomework\Problem17CatchTheBits\obj\Debug\Problem17CatchTheBits.pdb

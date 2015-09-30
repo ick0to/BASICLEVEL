@@ -1,0 +1,6 @@
+c:\users\hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe.config
+c:\users\hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.exe
+c:\users\hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigitIs7\bin\Debug\ThirdDigitIs7.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.exe
+c:\users\hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.pdb
+c:\users\hristo\documents\visual studio 2013\Projects\OperatorsExpressionsAndStatementsHomework\ThirdDigitIs7\obj\Debug\ThirdDigitIs7.csprojResolveAssemblyReference.cache
